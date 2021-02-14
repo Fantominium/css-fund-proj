@@ -1,0 +1,26 @@
+/* Tag specific */
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.background {
+    background: #2E354F;
+}
+
+header {
+    color: white;
+    padding: 30px 20px;
+}
+
+h2 {
+    color: #EF5839;
+}
+
+
+/* class specific*/
+
+.content {
+    padding: 20px;
+    width: 620px;
+}
